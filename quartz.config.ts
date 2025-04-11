@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "zh-CN",
     baseUrl: "q3yi.github.io",
-    ignorePatterns: ["internal", "_templates", ".obsidian", "Leetcode"],
+    ignorePatterns: ["internal", "_templates", ".obsidian", ".git", "Leetcode"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
